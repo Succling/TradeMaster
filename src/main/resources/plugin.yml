@@ -1,0 +1,12 @@
+name: TradeMaster
+version: '${project.version}'
+main: unyu.trademaster.TradeMaster
+api-version: 1.19
+prefix: TM
+authors: [ Nikki, Missa ]
+description: Allows you to trade with players.
+commands:
+  trademaster:
+    description: Prefix for TradeMaster commands.
+    usage: /<command> <paramater(s)>
+    aliases: tradem
